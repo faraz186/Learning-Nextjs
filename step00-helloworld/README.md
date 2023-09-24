@@ -1,5 +1,4 @@
-                                        Next.js 13 Hello World
-                                        
+Next.js 13 Hello World
 Download and Install Node.js LTS Version
 
 Download and Install VS Code
