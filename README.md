@@ -9,6 +9,8 @@ Next.js 13 is the latest evolution of the popular React framework, known for its
 
 Key features of Next.js 13 include:
 
+https://medium.com/naukri-engineering/next-js-13-features-changes-and-improvements-1483831a1909#:~:text=Less%20client%20JS-,Next.,and%20a%20pleasure%20to%20use.
+
 Server Components: Next.js 13 introduces Server Components, a groundbreaking technology that allows developers to build interactive, real-time applications with ease. Server Components enable the creation of highly efficient, modularized code on both the server and client, providing a seamless development experience.
 
 API Routes: Building APIs is simpler than ever with Next.js 13. You can effortlessly create RESTful or GraphQL APIs using the built-in API routes, making it convenient to handle data fetching and server-side logic.
