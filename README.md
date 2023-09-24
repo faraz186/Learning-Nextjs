@@ -1,5 +1,8 @@
 # Learn-Nextjs-13-2023
 
+Assalam-o-Alaikum, we are starting the latest state of the art technology Nextjs 13. In this repo we have created steps into small chunks to learn from the basic to advance in Nextjs. We will cover all the possible things in the current version v13.5. we have to cover
+tailwind css, MongoDB backend connectivity with Nextjs and many more. This is the right repository to learn Nextjs..
+
 Next.js 13 is the latest evolution of the popular React framework, known for its focus on performance and developer experience. With Next.js 13, creating full-stack web applications has never been easier thanks to its integration with state-of-the-art technologies.
 
 Key features of Next.js 13 include:
