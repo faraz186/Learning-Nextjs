@@ -1,6 +1,6 @@
 # Learn-Nextjs-13-2023
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NiknNI_0J48?si=8yM4AuEwDObC97sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/NiknNI_0J48
 
 Next.js 13 is the latest evolution of the popular React framework, known for its focus on performance and developer experience. With Next.js 13, creating full-stack web applications has never been easier thanks to its integration with state-of-the-art technologies.
 
