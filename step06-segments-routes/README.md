@@ -1,3 +1,20 @@
+When you don't know the exact segment names ahead of time and want to create routes from data.
+
+A Dynamic Segment can be created by wrapping a folder’s name in square brackets: [folderName].
+
+Read the dynamic segments docs
+
+Start the Server:
+
+    npm run dev
+Open the Browser:
+
+    http://localhost:3000/
+This is a Next.js project bootstrapped with create-next-app.
+
+Getting Started
+First, run the development server:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
