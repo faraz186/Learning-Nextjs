@@ -1,22 +1,22 @@
 ## REST API Testing with Postman
 
-We will be using Simple Books REST APIs
+(We will be using Simple Books REST APIs)
 
-Download and install the Postman App
+(Download and install the Postman App)
 
-We will be doing Introduction to Postman course
+(We will be doing Introduction to Postman course)
 
-Watch Postman Beginner's Course - API Testing Video
+(Watch Postman Beginner's Course - API Testing Video)
 
-Understanding the Basics of REST APIs
+(Understanding the Basics of REST APIs)
 
-Sending your first request
+(Sending your first request)
 
 ## Documentation:
 
-Building requests Documentation
+(Building requests Documentation)
 
-Grouping requests in collections
+(Grouping requests in collections)
 
 ## Deploy on Vercel
 
