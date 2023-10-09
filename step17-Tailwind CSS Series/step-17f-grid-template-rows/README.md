@@ -2,7 +2,7 @@
 
 Utilities for specifying the columns in a grid layout.
 
-[Grid template Colums and Rows](https://tailwindcss.com/docs/grid-template-columns))
+[Grid template Colums and Rows](https://tailwindcss.com/docs/grid-template-columns)
 
 Utilities for controlling how elements are sized and placed across grid columns.
 
