@@ -1,33 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Grid Tailwind CSS
 
-## Getting Started
+Utilities for specifying the columns in a grid layout.
 
-First, run the development server:
+[Grid template Colums and Rows](https://tailwindcss.com/docs/grid-template-columns)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Utilities for controlling how elements are sized and placed across grid columns.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[Grid Auto Columns](https://tailwindcss.com/docs/grid-column)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Utilities for controlling how elements in a grid are auto-placed.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+[Grid Auto Flow](https://tailwindcss.com/docs/grid-auto-flow)
 
-## Learn More
+## Deploy on Vercel
 
-To learn more about Next.js, take a look at the following resources:
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Deploy on Vercel
 
