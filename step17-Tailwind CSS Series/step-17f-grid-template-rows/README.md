@@ -2,15 +2,15 @@
 
 Utilities for specifying the columns in a grid layout.
 
-[https://tailwindcss.com/docs/grid-template-columns](Grid template Colums and Rows)
+[Grid template Colums and Rows](https://tailwindcss.com/docs/grid-template-columns))
 
 Utilities for controlling how elements are sized and placed across grid columns.
 
-[https://tailwindcss.com/docs/grid-column](Grid Auto Columns)
+[Grid Auto Columns](https://tailwindcss.com/docs/grid-column)
 
 Utilities for controlling how elements in a grid are auto-placed.
 
-[https://tailwindcss.com/docs/grid-auto-flow](Grid Auto Flow)
+[Grid Auto Flow](https://tailwindcss.com/docs/grid-auto-flow)
 
 ## Deploy on Vercel
 
