@@ -1,3 +1,24 @@
+## TailWind CSS with Next.js 13 apps
+
+[Tailwind CSS](https://tailwindcss.com/) is a utility-first CSS framework that works exceptionally well with Next.js.
+
+[Installing and Configuring TailwindCSS with Next.js 13](https://tailwindcss.com/docs/guides/nextjs)
+
+Do step00_helloworld in tailwind folder to learn how to use Tailwind CSS with Next.js 13
+
+Then we will cover the first 8 chapters of the book Modern CSS with Tailwind: Flexible Styling Without the Fuss 2nd Edition
+
+Then we will learn layouts with CSS Flex and Grid using Tailwind CSS from this CSS Flex and Grid book
+
+Business Landing Page using NextJs 13 & Tailwind CSS from scratch
+
+[Play Frog Game to Learn Flex](https://flexboxfroggy.com/)
+
+Additional Material:
+
+[Watch Tailwind CSS Full Course for Beginners](https://www.youtube.com/watch?v=lCxcTsOHrjo)
+
+
 ## Grid Tailwind CSS
 
 Utilities for specifying the columns in a grid layout.
