@@ -1,26 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Connect MongoDB No SQL Database
 
-## Getting Started
+first you signup your account in mongodb atlas [signup your account](https://www.mongodb.com/cloud/atlas/register)
 
-First, run the development server:
+If you already signin visit this page [login with mongodb](https://account.mongodb.com/account/login?nds=true)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
+first you create a database with a free cluster then you connect your database to your peoject...
 
 To learn more about Next.js, take a look at the following resources:
 
