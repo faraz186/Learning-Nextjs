@@ -2,7 +2,7 @@
 
 first you signup your account in mongodb atlas [signup your account](https://www.mongodb.com/cloud/atlas/register)
 
-If you already signin visit this page [login with mongodb](https://account.mongodb.com/account/login?nds=true)
+If you already signIn visit this page [login with mongodb..](https://account.mongodb.com/account/login?nds=true)
 
 first you create a database with a free cluster then you connect your database to your peoject...
 
