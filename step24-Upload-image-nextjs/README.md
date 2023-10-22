@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Thesis How you do uploaded Image in Next JS
+
+[https://stackoverflow.com/questions/72663673/how-do-i-get-uploaded-image-in-next-js-and-save-i](stackflow upload image in next js)
 
 ## Getting Started
 
