@@ -7,7 +7,7 @@
 
 [FreeCodeCamp website give some favour about how to add uploaded image in nextjs](https://www.freecodecamp.org/news/how-to-upload-crop-resize-images-in-the-browser-in-nextjs/)
 
-[content of how to uploaded multiple images in nextjs](https://www.myselfrakib.com/blog/upload-multiple-image-and-preview-on-react.js)
+[Content of how to uploaded multiple images in nextjs](https://www.myselfrakib.com/blog/upload-multiple-image-and-preview-on-react.js)
 ## Getting Started
 
 First, run the development server:
