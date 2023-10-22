@@ -1,6 +1,6 @@
 ## Thesis How you do uploaded Image in Next JS
 
-[https://stackoverflow.com/questions/72663673/how-do-i-get-uploaded-image-in-next-js-and-save-i](stackflow upload image in next js)
+[stackflow upload image in next js](https://stackoverflow.com/questions/72663673/how-do-i-get-uploaded-image-in-next-js-and-save-i)
 
 ## Getting Started
 
