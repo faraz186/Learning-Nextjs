@@ -1,6 +1,9 @@
-## Thesis How you do uploaded Image in Next JS
+
+## Resources
 
 [stackflow upload image in next js](https://stackoverflow.com/questions/72663673/how-do-i-get-uploaded-image-in-next-js-and-save-i)
+
+[Watch Tutorial how to add uploaded image by Dave Gray..](https://www.youtube.com/watch?v=OyxDGWgNJMc)
 
 ## Getting Started
 
