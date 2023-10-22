@@ -5,6 +5,8 @@
 
 [Watch Tutorial how to add uploaded image by Dave Gray..](https://www.youtube.com/watch?v=OyxDGWgNJMc)
 
+[FreeCodeCamp website give some favour about how to add uploaded image in nextjs](https://www.freecodecamp.org/news/how-to-upload-crop-resize-images-in-the-browser-in-nextjs/)
+
 ## Getting Started
 
 First, run the development server:
