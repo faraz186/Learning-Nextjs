@@ -25,7 +25,7 @@ fetch(https://..., { cache: 'no-store' });
 
 fetch(https://..., { next: { revalidate: false | 0 | number } } });
 
-The default behavior is fetch(https://..., { cache: 'force-cache' }).
+The default behavior is fetch(https://..., { cache: 'force-cache' }). 
 
 
 ## Deploy on Vercel
