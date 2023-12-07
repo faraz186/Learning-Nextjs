@@ -3,6 +3,7 @@ export default function Home() {
     <div>
     
       <h1 style={{ textAlign: "center" }}> Nested Routing | Home Page </h1>
+  
     </div>
   );
 }
