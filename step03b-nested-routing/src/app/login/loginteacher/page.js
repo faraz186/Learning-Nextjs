@@ -3,6 +3,7 @@ export default function LoginTeacher() {
     <div>
     
       <h1 style={{ textAlign: "center" }}> Login Teacher Page </h1>
+  
     </div>
   );
 }
