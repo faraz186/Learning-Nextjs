@@ -3,6 +3,7 @@ export default function AboutCollege() {
     <div>
     
       <h1 style={{ textAlign: "center" }}> About College Page </h1>
+  
     </div>
   );
 }
