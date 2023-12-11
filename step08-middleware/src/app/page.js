@@ -12,8 +12,7 @@ export default function Home() {
         onClick={() => router.push("/studentlist")}
         style={{ position: "absolute", left: 580, top: 130, fontSize: 18 }}
       >
-        Go to Student List Page
-      </button>
+        Go to Student List Page</button>
     </div>
   );
 }
