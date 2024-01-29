@@ -1,4 +1,4 @@
-"use client";
+"use client";  
 import { useState } from "react";
 
 // if you are using events,state and hooks in Nextjs use "use client"
