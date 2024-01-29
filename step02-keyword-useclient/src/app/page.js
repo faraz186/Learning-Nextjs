@@ -26,7 +26,7 @@ export default function Home() {
   
       <button style={{ marginRight: 20 }} onClick={popUp}>
         Change my name
-      </button>
+      </button>  
 
       <button onClick={PreviousPopUp}>Change previous name</button>
 
