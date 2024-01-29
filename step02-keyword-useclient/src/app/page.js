@@ -9,7 +9,7 @@ export default function Home() {
   const [name, setName] = useState("Faraz");
 
   const popUp = () => {
-    setName("Muhammad");
+    setName("Muhammad");  
   };
 
   const PreviousPopUp = () => {
