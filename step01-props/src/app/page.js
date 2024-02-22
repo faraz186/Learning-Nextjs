@@ -17,7 +17,7 @@ export default function Home() {
 
       <User name="Muhammad Shabbir "/>
       <br />
-
+  
     </div>
   )
 }
