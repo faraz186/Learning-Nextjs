@@ -1,6 +1,6 @@
 "use client"  
 
-import { useState } from 'react'
+import { useState } from 'react'  
 import style from './style.module.css'    
 export default function Home() {
   const [color,setColor]=useState("red");
