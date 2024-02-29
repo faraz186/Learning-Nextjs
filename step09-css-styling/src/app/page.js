@@ -11,7 +11,7 @@ export default function Home() {
       <h3 id={style.orange} >Heading 3</h3>
 
       <h4  className={red}>Dummy text</h4>
-      <h4 className={red}>Dummy text</h4>
+      <h4 className={red}>Dummy text</h4>  
       <h4 className={red}>Dummy text</h4>
       <h4 className={red}>Dummy text</h4>
 
