@@ -12,7 +12,7 @@ export default function StudentDetails({ params }) {
 
       <h3 style={{ textAlign: "center", marginTop: 50 }}> 
         <i>Hello Mr. {params.student}</i>
-      </h3>
+      </h3>  
 
       <button
         onClick={() => router.push("/studentlist")}
