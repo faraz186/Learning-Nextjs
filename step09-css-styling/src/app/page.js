@@ -17,7 +17,7 @@ export default function Home() {
       <h4 className={red}>Dummy text</h4>    
 
 
-      <button onClick={()=>setColor("green")} >Update Color</button>
+      <button onClick={()=>setColor("green")} >Update Color</button>  
     </main>
   )
 }
