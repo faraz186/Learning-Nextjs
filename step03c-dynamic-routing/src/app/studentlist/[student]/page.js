@@ -18,7 +18,7 @@ export default function StudentDetails({ params }) {
         onClick={() => router.push("/studentlist")}
         style={{ position: "absolute", left: 600, top: 180 }}
       >
-        Back to Student List Page
+        Back to Student List Page   
       </button>
     </div>
   );
