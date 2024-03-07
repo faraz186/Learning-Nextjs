@@ -22,7 +22,7 @@ export default function Page()
             alert("some error issues...")
         }
         console.log(response)
-    }
+    }  
 
     return(
         <div style={{textAlign:"center"}}>
