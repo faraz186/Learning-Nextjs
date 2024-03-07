@@ -18,7 +18,7 @@ export default function Page()
         {
             alert("new user added..")
         }
-        else{
+        else{  
             alert("some error issues...")
         }
         console.log(response)
