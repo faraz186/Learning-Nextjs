@@ -10,7 +10,7 @@ export async function GET()
         await mongoose.connect(connectionSrt);
         data = await Product.find();
     }
-    catch(err){
+    catch(err){  
         data={success:false}
     }
 
