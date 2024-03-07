@@ -5,7 +5,7 @@ import { Product } from '@/lib/model/products';
 
 export async function GET()
 {
-    let data = [];
+    let data = [];  
     try{
         await mongoose.connect(connectionSrt);
         data = await Product.find();
