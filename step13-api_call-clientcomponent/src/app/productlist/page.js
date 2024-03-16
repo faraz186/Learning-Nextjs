@@ -8,7 +8,7 @@ export default function Product()
       
     useEffect(async ()=>{
         let data = await fetch("https://dummyjson.com/products");   
-        data = await data.json();
+        data = await data.json();   
         console.log(data.products);   
         setProduct(data.products);   
     })
