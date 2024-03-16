@@ -16,7 +16,7 @@ export default function Product()
         <>
             <h1>Product page</h1>
             {   
-                product.map((e,i)=>{  
+                product.map((e,i)=>{     
                     return(
                         <div key={i}>
                             <h3>{e.title}</h3>
