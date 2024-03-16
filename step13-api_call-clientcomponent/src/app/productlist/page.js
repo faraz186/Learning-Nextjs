@@ -14,7 +14,7 @@ export default function Product()
     })
     return(
         <>
-            <h1>Product page</h1>
+            <h1>Product page</h1>   
             {   
                 product.map((e,i)=>{     
                     return(
