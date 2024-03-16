@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react"    
 
-export default function Product()
+export default function Product()   
 {    
     const [product,setProduct] = useState([])
       
