@@ -10,8 +10,7 @@ export default async function Page()
     let products = await productlist();
     console.log(products);
     return(
-        <div>     
-           
+        <div>        
             <h1>Product List</h1>
             {
                 products.map((item)=>{
