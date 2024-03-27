@@ -22,7 +22,7 @@ export default function Home() {
 
   return (   
     <div>
-      <h1>Hello, {name}</h1>
+      <h1>Hello, {name}</h1>   
   
       <button style={{ marginRight: 20 }} onClick={popUp}>
         Change my name
