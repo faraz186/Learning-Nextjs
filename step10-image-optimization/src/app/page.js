@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import img from '../../public/vercel.svg'
-
+  
 export default function Home() {
   return (
     <>
