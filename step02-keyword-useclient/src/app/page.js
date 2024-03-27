@@ -24,7 +24,7 @@ export default function Home() {
     <div>
       <h1>Hello, {name}</h1>   
   
-      <button style={{ marginRight: 20 }} onClick={popUp}>
+      <button style={{ marginRight: 20 }} onClick={popUp}>   
         Change my name
       </button>  
 
