@@ -9,6 +9,6 @@ export const config={
     
     matcher:"/about/:path*"
 
-    matcher:["/studentlist/:path*","/about/:path*"]
+    matcher:["/studentlist/:path*","/about/:path*"]   
 
 }
