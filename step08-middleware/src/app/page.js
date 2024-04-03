@@ -9,7 +9,7 @@ export default function Home() {
       <h1 style={{ textAlign: "center" }}>Dynamic Routing | Home Page</h1>
 
       <button
-        onClick={() => router.push("/studentlist")}
+        onClick={() => router.push("/studentlist")}  
         style={{ position: "absolute", left: 580, top: 130, fontSize: 18 }}>  
 
         Go to Student List Page
