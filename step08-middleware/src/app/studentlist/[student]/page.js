@@ -5,7 +5,7 @@ export default function StudentDetails({ params }) {
   const router = useRouter();
   console.log(params);
 
-  return (
+  return (  
     <div>
       <h1 style={{ textAlign: "center" }}>Student Details</h1>
 
