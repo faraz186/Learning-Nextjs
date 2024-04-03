@@ -13,7 +13,7 @@ export default function StudentDetails({ params }) {
         <i>Hello Mr. {params.student}</i>
       </h3>
 
-      <button
+      <button  
         onClick={() => router.push("/studentlist")}
         style={{ position: "absolute", left: 600, top: 180 }}
       >   
