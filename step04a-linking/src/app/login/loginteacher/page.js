@@ -1,5 +1,5 @@
 import Link from "next/link";
-
+  
 export default function LoginTeacher() {
   return (
     <div style={{ textAlign: "center" }}>
