@@ -12,7 +12,7 @@ export default function Product()
         console.log(data.products);   
         setProduct(data.products);   
     })
-    return(  
+    return(    
         <>
             <h1>Product page</h1>   
             {   
