@@ -5,4 +5,4 @@ export default function Study()
             <h1>Study Page</h1>
         </>
     )
-}
+} 
