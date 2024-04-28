@@ -18,7 +18,7 @@ export default function Page()
         result = await result.json();
 
         if(result.success)
-        {
+        {  
             alert("new product added...")
         }
     }
