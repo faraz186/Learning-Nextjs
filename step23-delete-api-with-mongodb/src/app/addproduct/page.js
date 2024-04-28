@@ -11,7 +11,7 @@ export default function Page()
     const [category,setCategory] = useState("");
 
     const addProduct = async ()=>{
-        let result = await fetch("https://localhost:300/api/products",{
+        let result = await fetch("https://localhost:300/api/products",{  
             method:"POST",
             body:JSON.stringify({name,price,color,company,category})
         });
