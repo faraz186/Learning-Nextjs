@@ -6,7 +6,7 @@ export const user = [
         email:"faraz@gmail.com"
     },
     {
-        id:20,
+        id:20,  
         name:"Ashar",  
         age:25,
         email:"ashar@gmail.com"
