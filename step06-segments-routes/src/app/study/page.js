@@ -1,6 +1,6 @@
 export default function Study()
 {        
-    return(        
+    return(          
         <>
             <h1>Study Page</h1>  
         </>    
