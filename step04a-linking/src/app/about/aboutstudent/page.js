@@ -6,7 +6,7 @@ export default function AboutStudent() {
       <h1 style={{ textAlign: "center" }}>About Student Page</h1>
 
       <Link href="/login">Go to Login Page</Link>
-      <br />  
+      <br />    
       <br />  
 
       <Link href="/about">Go to About Page</Link>
