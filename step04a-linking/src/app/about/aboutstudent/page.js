@@ -1,5 +1,5 @@
 import Link from "next/link";            
-                      
+                        
 export default function AboutStudent() {
   return (  
     <div style={{ textAlign: "center" }}>
