@@ -11,7 +11,7 @@ export default function AboutStudent() {
 
       <Link href="/about">Go to About Page</Link>
       <br />    
-      <br />
+      <br />  
    
       <Link href="/login/loginstudent">Go to Login Student Page</Link>
       <br />
