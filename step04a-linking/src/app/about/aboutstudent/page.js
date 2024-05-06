@@ -1,7 +1,7 @@
 import Link from "next/link";            
                       
 export default function AboutStudent() {
-  return (
+  return (  
     <div style={{ textAlign: "center" }}>
       <h1 style={{ textAlign: "center" }}>About Student Page</h1>
 
