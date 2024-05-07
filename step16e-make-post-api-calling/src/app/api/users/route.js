@@ -10,7 +10,7 @@ export function GET()
 export async function POST(request)
 {
     let payload = await request.json();
-    console.log(payload);   
+    console.log(payload);     
 
     if(!payload.name || !payload.age || !payload.email)  
     {
