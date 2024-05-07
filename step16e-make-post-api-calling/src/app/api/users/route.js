@@ -14,7 +14,7 @@ export async function POST(request)
 
     if(!payload.name || !payload.age || !payload.email)
     {
-    return NextResponse.json({result:"require field not found...",success:false},{status:400})
+    return NextResponse.json({result:"require field not found...",success:false},{status:400})    
 
     }   
 
