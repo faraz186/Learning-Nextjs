@@ -16,7 +16,7 @@ export async function POST(request)
     {
     return NextResponse.json({result:"require field not found...",success:false},{status:400})
 
-    }
+    }   
 
     return NextResponse.json({result:"new user created..",success:true},{status:200})
 
