@@ -1,5 +1,5 @@
 export default function Home() {  
-  return (
+  return (  
     <div>  
         <h1>Hello User, I am Muhammad Faraz...</h1>
     </div>
