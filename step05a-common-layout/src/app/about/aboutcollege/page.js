@@ -5,5 +5,5 @@ const AboutCollege=()=>{
         </div>
     )
 }
-
+  
 export default AboutCollege;
