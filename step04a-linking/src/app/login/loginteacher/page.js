@@ -4,7 +4,7 @@ export default function LoginTeacher() {
   return (
     <div style={{ textAlign: "center" }}>
       <h1 style={{ textAlign: "center" }}>Login Teacher Page</h1>
-
+  
       <Link href="/login">Go to Login Page</Link>
       <br />
       <br />
