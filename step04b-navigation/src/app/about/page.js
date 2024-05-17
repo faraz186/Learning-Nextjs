@@ -12,7 +12,7 @@ export default function About() {
       <h1 style={{ textAlign: "center" }}>About Page</h1>
       <br />
 
-      <button onClick={() => navigation("/login")}>Go to Login Page</button>
+      <button onClick={() => navigation("/login")}>Go to Login Page</button>  
 
       <br />
       <br />
