@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 export default function About() {  
   const router = useRouter();
 
-  const navigation = (route) => {
+  const navigation = (route) => {  
     router.push(route);
   };
   return (
