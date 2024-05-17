@@ -19,7 +19,7 @@ export default function About() {
 
       <button onClick={() => navigation("/")}>Go to Home Page</button>
 
-      <br />
+      <br />  
       <br />
 
       <button onClick={() => navigation("/login/loginteacher")}>
