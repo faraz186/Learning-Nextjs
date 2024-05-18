@@ -10,7 +10,7 @@ export default function Home() {
 
   const popUp = () => {  
     setName("Muhammad");  
-  };      
+  };        
    
   const PreviousPopUp = () => {
     setName("Faraz");
