@@ -13,7 +13,7 @@ export default function Home() {
       <br />
   
       <User name="Kashif Abbas"/>
-      <br />
+      <br />  
 
       <User name="Muhammad Shabbir "/>
       <br />
