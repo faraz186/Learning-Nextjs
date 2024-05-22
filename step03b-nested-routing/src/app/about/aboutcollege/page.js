@@ -1,4 +1,4 @@
-export default function AboutCollege() {
+export default function AboutCollege() {  
   return (  
     <div>  
     
