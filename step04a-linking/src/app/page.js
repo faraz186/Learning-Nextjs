@@ -21,7 +21,7 @@ export default function Home() {
       <br />
       <br />
 
-      <Link href="/about/aboutstudent">Go to About Student Page</Link>
+      <Link href="/about/aboutstudent">Go to About Student Page</Link>  
     </div>
   );
 }
