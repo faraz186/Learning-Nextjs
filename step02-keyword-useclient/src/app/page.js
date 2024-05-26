@@ -7,7 +7,7 @@ import { useState } from "react";
         
 export default function Home() {
   const [name, setName] = useState("Faraz");
-  
+     
   const popUp = () => {  
     setName("Muhammad");  
   };           
