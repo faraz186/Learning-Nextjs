@@ -4,7 +4,7 @@ import { useState } from "react";
 // if you are using events,state and hooks in Nextjs use "use client"
 // assign on the top because all these things such as events and hooks are using in
 // client side rendering and next js using server side rendering that's why we useclient..   
-    
+      
 export default function Home() {
   const [name, setName] = useState("Faraz");
 
