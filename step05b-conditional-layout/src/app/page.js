@@ -7,7 +7,7 @@ export default function Home() {
   const router = useRouter();
   const navigate = (name) => {  
     router.push(name);
-  };
+  };  
   return (
     <main>
       <h1>Common Layout Page</h1>
