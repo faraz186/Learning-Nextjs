@@ -6,7 +6,7 @@ async function productlist()
 }   
 
 export default async function Page()
-{
+{   
     let products = await productlist();
     console.log(products);
     return(      
