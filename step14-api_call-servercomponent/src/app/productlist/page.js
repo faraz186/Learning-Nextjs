@@ -2,7 +2,7 @@ async function productlist()
 {      
     let data = await fetch("https://dummyjson.com/products");
     data = await data.json();
-    return data.products;
+    return data.products;  
 }   
 
 export default async function Page()
