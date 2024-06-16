@@ -11,5 +11,5 @@ export default function Home()
       <Link style={{marginLeft:"15%"}} href="/productlist">Go to Product List</Link>
      
     </div>
-  )
+  )   
 }
