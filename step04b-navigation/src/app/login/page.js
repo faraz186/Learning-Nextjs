@@ -11,7 +11,7 @@ export default function Login() {
     <div style={{ textAlign: "center" }}>  
       <h1 style={{ textAlign: "center" }}>Login Page</h1>
       <br />
-
+  
       <button onClick={() => navigation("/about")}>Go to About Page</button>
 
       <br />
