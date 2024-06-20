@@ -6,7 +6,7 @@ export default function Login() {
 
   const navigation = (route) => {
     router.push(route);
-  };
+  };  
   return (
     <div style={{ textAlign: "center" }}>
       <h1 style={{ textAlign: "center" }}>Login Page</h1>
