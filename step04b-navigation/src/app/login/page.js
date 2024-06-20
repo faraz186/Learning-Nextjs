@@ -16,7 +16,7 @@ export default function Login() {
       <button onClick={() => navigation("/about")}>Go to About Page</button>
 
       <br />
-      <br />
+      <br />  
 
       <button onClick={() => navigation("/")}>Go to Home Page</button>  
 
