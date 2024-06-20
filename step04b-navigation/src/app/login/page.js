@@ -8,7 +8,7 @@ export default function Login() {
     router.push(route);
   };  
   return (
-    <div style={{ textAlign: "center" }}>
+    <div style={{ textAlign: "center" }}>  
       <h1 style={{ textAlign: "center" }}>Login Page</h1>
       <br />
 
