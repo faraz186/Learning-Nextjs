@@ -1,4 +1,4 @@
-const Login = () => {  
+const Login = () => {    
   return (   
     <div>  
       <h1 style={{ textAlign: "center" }}>Login Page</h1>    
