@@ -1,6 +1,6 @@
 const LoginTeacher =()=>{    
     return(      
-        <div>    
+        <div>      
             <h1 className="heading">Login Page for Teacher</h1>
         </div>
     )  
