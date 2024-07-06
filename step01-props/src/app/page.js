@@ -25,7 +25,7 @@ export default function Home() {
 const User = (props) =>{
   return(
     <div>
-        <h1>Hello I am <span style={{color:"blue"}}>{props.name}</span></h1>
+        <h1>Hello I am <span style={{color:"blue"}}>{props.name}</span></h1>    
     </div>
   )
 }
