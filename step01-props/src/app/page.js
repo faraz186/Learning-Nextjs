@@ -21,7 +21,7 @@ export default function Home() {
     </div>
   )
 }
-
+    
 const User = (props) =>{
   return(
     <div>
