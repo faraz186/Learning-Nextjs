@@ -12,7 +12,7 @@ export default function Home() {
       <User name="Ali Ahmed"/>
       <br />   
   
-      <User name="Kashif Abbas"/>
+      <User name="Kashif Abbas"/>  
       <br />  
 
       <User name="Muhammad Shabbir "/>  
