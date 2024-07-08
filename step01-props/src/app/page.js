@@ -7,7 +7,7 @@ export default function Home() {
   
       <br />  
       <User name="Muhammad Faraz"/>
-      <br />      
+      <br />         
    
       <User name="Ali Ahmed"/>
       <br />   
