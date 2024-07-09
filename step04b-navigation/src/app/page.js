@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 export default function Home() {
   const router = useRouter();
   
-  return (
+  return (  
     <div style={{ textAlign: "center" }}>
       <h1 style={{ textAlign: "center" }}>Navigation | Home Page</h1>     
       <br />
