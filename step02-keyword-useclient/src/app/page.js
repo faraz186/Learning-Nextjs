@@ -14,7 +14,7 @@ export default function Home() {
    
   const PreviousPopUp = () => {
     setName("Faraz");
-  };
+  };     
 
   const randomPopUp = (message) => {   
     alert(message);  
