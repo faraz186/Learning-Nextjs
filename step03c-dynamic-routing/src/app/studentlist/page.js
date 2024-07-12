@@ -10,7 +10,7 @@ export default function StudentList() {
       <div
         style={{ position: "absolute", left: "45%", top: "20%", fontSize: 20 }}
       >
-        <li>
+        <li>   
           <Link href="/studentlist/Muhammad">Muhamamd</Link>
         </li>
         <li>
