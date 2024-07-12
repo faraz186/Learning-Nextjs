@@ -23,7 +23,7 @@ export default function StudentList() {
           <Link href="/studentlist/ali">Ali</Link>
         </li>
         <li>
-          <Link href="/studentlist/ibrahim">Ibrahim</Link>
+          <Link href="/studentlist/ibrahim">Ibrahim</Link>   
         </li>
       </div>
     </>
