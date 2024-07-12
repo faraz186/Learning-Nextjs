@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 export default function StudentList() {
-  return (
+  return (   
     <>
       <div>
         <h1 style={{ textAlign: "center" }}>Student List Page</h1>
