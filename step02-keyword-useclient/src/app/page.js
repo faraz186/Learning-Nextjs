@@ -30,7 +30,7 @@ export default function Home() {
 
       <button onClick={PreviousPopUp}>Change previous name</button>
 
-      <br />
+      <br />    
       <br />
       <br />
 
