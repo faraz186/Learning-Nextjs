@@ -15,7 +15,7 @@ export default function Home() {
       <User name="Kashif Abbas"/>  
       <br />  
 
-      <User name="Muhammad Shabbir "/>  
+      <User name="Muhammad Shabbir "/>     
       <br />
   
     </div>
