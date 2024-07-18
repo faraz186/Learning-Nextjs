@@ -1,4 +1,4 @@
-export default function Home() {      
+export default function Home() {        
   return (         
     <div>     
         <h1>Hello User, I am Muhammad Faraz...</h1>   
