@@ -34,7 +34,7 @@ export default function Home() {
       <br />
       <br />
 
-      <button onClick={() => randomPopUp("Welcome Muhammad Faraz")}>    
+      <button onClick={() => randomPopUp("Welcome Muhammad Faraz")}>        
         Click Random User
       </button>
     </div>
