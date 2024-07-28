@@ -14,7 +14,7 @@ export async function GET()
         data={success:false}
     }  
 
-    return NextResponse.json({result:data,success:true})
+    return NextResponse.json({result:data,success:true})   
 }
 
 export async function POST(request)
