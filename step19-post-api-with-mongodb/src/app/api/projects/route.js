@@ -23,7 +23,7 @@ export async function POST(request)
 
     await mongoose.connect(connectionSrt);  
 
-    let product = new Product(payload);
+    let product = new Product(payload);   
 
     const result = await product.save();
 
