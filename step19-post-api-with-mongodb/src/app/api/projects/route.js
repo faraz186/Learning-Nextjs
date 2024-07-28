@@ -4,7 +4,7 @@ import {connectionSrt} from "@/lib/db"
 import { Product } from '@/lib/model/products';     
 
 export async function GET()
-{
+{   
     let data = [];  
     try{
         await mongoose.connect(connectionSrt);   
