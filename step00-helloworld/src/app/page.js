@@ -1,6 +1,6 @@
 export default function Home() {        
   return (         
-    <div>               
+    <div>                  
         <h1>Hello User, I am Muhammad Faraz...</h1>         
     </div>       
   )     
