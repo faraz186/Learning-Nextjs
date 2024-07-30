@@ -3,5 +3,5 @@ export default function Home() {
     <div>                  
         <h1>Hello User, I am Muhammad Faraz...</h1>            
     </div>       
-  )     
+  )        
 }
