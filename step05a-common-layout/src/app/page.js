@@ -10,7 +10,7 @@ export default function Home() {
     router.push(name);
   };
   return (
-    <main>
+    <main>   
       <h1>Common Layout Page</h1>
       <Link href="/login">Go to Login Page</Link>
       <br />
