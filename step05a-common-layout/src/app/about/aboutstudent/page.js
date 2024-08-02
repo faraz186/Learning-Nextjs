@@ -5,5 +5,5 @@ const AboutStudent=()=>{
         </div>
     )
 }
-
+    
 export default AboutStudent;
