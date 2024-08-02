@@ -1,5 +1,5 @@
 const AboutStudent=()=>{
-    return(
+    return(   
         <div>
             <h1>About Page for Student</h1>
         </div>
