@@ -15,7 +15,7 @@ export default function Login() {
       <br />
 
       <Link href="/login/loginstudent">Go to Login Student Page</Link>
-
+    
       <br />
       <br />
 
