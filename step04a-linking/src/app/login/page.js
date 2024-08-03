@@ -20,6 +20,6 @@ export default function Login() {
       <br />
 
       <Link href="/about/aboutstudent">Go to About Student Page</Link>
-    </div>
+    </div>   
   );
 }
