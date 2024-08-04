@@ -4,7 +4,7 @@ import img from '../../public/vercel.svg'
 export default function Home() {
   return (        
     <>   
-    <h1 style={{textAlign:"center"}}>Image Optimization in Nextjs</h1>   
+    <h1 style={{textAlign:"center"}}>Image Optimization in Nextjs</h1>      
    
     <br />   
     
