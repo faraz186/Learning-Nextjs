@@ -20,7 +20,7 @@ export default function Home() {
     <h2 style={{textAlign:"center",textDecoration:"underline"}}>Offline Image</h2>          
     
     <Image style={{marginLeft:"40%"}} src={img}    
-    width={400} height={250} />
+    width={400} height={250} />   
     </>
   )
 }
