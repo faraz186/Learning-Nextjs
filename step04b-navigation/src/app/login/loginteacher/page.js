@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 
 export default function LoginTeacher() {
   const router = useRouter();
-  return (
+  return (   
     <div style={{ textAlign: "center" }}>
       <h1 style={{ textAlign: "center" }}>Login Teacher Page</h1>
       <br />
