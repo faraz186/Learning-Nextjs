@@ -25,7 +25,7 @@ export default function LoginTeacher() {
       </button>
     
       <br />
-      <br />
+      <br />   
   
       <button onClick={() => router.push("/about/aboutcollege")}>
         Go to About College Page
