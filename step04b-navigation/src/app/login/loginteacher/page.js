@@ -6,6 +6,7 @@ export default function LoginTeacher() {
   const router = useRouter();
   return (   
     <div style={{ textAlign: "center" }}>
+   
       <h1 style={{ textAlign: "center" }}>Login Teacher Page</h1>
       <br />
 
