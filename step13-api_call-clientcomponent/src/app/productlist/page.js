@@ -19,7 +19,7 @@ export default function Product()
                 product.map((e,i)=>{        
                     return(   
                         <div key={i}>
-                            <h3>{e.title}</h3>
+                            <h3>{e.title}</h3>  
                         </div>
                     )
                 })
