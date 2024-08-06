@@ -17,7 +17,7 @@ export default function Product()
             <h1>Product page</h1>   
             {   
                 product.map((e,i)=>{        
-                    return(
+                    return(   
                         <div key={i}>
                             <h3>{e.title}</h3>
                         </div>
