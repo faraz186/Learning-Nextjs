@@ -11,7 +11,7 @@ const About=()=>{
             <button onClick={()=>router.push("/")} >Go to Home Page</button>
 
         <br />  
-        <Link href="/about/aboutcollege" >Go to About College page</Link>
+        <Link href="/about/aboutcollege" >Go to About College page</Link>   
         <br /> <br />
         <Link href="/about/aboutstudent" >Go to About Student page</Link>      
 
