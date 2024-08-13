@@ -1,6 +1,6 @@
 export default function DisplayUsers()
 {
-    return(
+    return(  
         <div className="display-user">
             <h3>User List</h3>
         </div>   
