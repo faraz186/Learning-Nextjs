@@ -20,7 +20,7 @@ export default function Home() {
     alert(message);  
   };  
 
-  return (      
+  return (         
     <div>
       <h1>Hello, {name}</h1>   
   
