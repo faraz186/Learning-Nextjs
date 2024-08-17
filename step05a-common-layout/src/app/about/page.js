@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import {useRouter} from 'next/navigation'     
 
-const About=()=>{
+const About=()=>{   
     const router = useRouter();
     return(
         <div>
