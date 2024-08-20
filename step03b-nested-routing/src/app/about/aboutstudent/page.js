@@ -3,5 +3,5 @@ export default function AboutStudent() {
     <div>   
       <h1 style={{ textAlign: "center" }}>About Student Page</h1>  
     </div>  
-  );
+  );   
 }
