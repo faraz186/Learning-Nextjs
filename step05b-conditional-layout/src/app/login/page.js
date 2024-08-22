@@ -15,7 +15,7 @@ const Login = () => {
             <button onClick={() => navigate("loginstudent")} >Go to Student Login Page</button>
             <br /> <br />  
             <button onClick={() => navigate("loginteacher")} >Go to Teacher Login Page</button>
-
+   
         </div>
     )
 }
