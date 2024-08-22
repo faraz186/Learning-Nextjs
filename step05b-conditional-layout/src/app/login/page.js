@@ -13,7 +13,7 @@ const Login = () => {
             <Link href="/" >Go to Home Page</Link>
             <br /> <br />
             <button onClick={() => navigate("loginstudent")} >Go to Student Login Page</button>
-            <br /> <br />
+            <br /> <br />  
             <button onClick={() => navigate("loginteacher")} >Go to Teacher Login Page</button>
 
         </div>
