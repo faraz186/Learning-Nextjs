@@ -16,7 +16,7 @@ export default function Home() {
       <br />  
       <br />
 
-      <Link href="/login/loginstudent">Go to Login Student Page</Link>
+      <Link href="/login/loginstudent">Go to Login Student Page</Link>   
 
       <br />  
       <br />
