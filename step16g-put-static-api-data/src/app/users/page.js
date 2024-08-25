@@ -19,7 +19,6 @@ export default async function Userss()
                     <div>
                         <Link href={`users/${item.id}`}>{item.name}</Link>  
                     </div>
-                        
                 })
             }
         </div>
