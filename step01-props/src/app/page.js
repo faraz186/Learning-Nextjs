@@ -5,7 +5,7 @@ export default function Home() {
               
       <h1 style={{textDecoration:"underline"}}>Props</h1>     
   
-      <br />     
+      <br />        
       <User name="Muhammad Faraz"/>  
       <br />         
       
