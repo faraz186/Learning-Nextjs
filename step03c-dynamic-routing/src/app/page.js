@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 export default function Home() {
   const router = useRouter();
   return (     
-    <div>
+    <div>   
       <h1 style={{ textAlign: "center" }}>Dynamic Routing | Home Page</h1>
   
       <button
