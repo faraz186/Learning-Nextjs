@@ -1,6 +1,6 @@
 "use client";          
 import { useRouter } from "next/navigation";
-   
+      
 export default function AboutStudent() {
   const router = useRouter();
   return (
