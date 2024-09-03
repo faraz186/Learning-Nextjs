@@ -18,7 +18,7 @@ export default function Home() {
 
   const randomPopUp = (message) => {      
     alert(message);  
-  };  
+  };     
 
   return (         
     <div>
