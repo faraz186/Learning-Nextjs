@@ -8,7 +8,7 @@ export async function GET()
     let data = [];  
     try{      
         await mongoose.connect(connectionSrt);   
-        data = await Product.find();
+        data = await Product.find();  
     }
     catch(err){     
         data={success:false}
