@@ -20,7 +20,7 @@ export async function GET()
 export async function POST(request)
 {      
     const payload = await request.json();      
-
+  
     await mongoose.connect(connectionSrt);  
 
     let product = new Product(payload);      
