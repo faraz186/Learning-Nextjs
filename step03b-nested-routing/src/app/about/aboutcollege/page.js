@@ -1,5 +1,5 @@
 export default function AboutCollege() {  
-  return (                
+  return (                  
     <div>  
     
       <h1 style={{ textAlign: "center" }}> About College Page </h1>  
