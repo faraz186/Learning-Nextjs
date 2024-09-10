@@ -7,3 +7,4 @@ export default function AboutCollege() {
     </div>
   );      
 }
+    
