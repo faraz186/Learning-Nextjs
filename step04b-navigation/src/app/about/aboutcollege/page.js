@@ -10,7 +10,7 @@ export default function AboutCollege() {
 
       <br />
 
-      <button onClick={() => router.push("/login")}>Go to Login Page</button>
+      <button onClick={() => router.push("/login")}>Go to Login Page</button>  
 
       <br />
       <br />
