@@ -3,7 +3,7 @@ export default function Home() {
                  
     <div style={{textAlign:"center"}}>              
                      
-      <h1 style={{textDecoration:"underline"}}>Props</h1>     
+      <h1 style={{textDecoration:"underline"}}>Props</h1>        
   
       <br />        
       <User name="Muhammad Faraz"/>  
