@@ -2,7 +2,7 @@
 
 import { useRouter } from "next/navigation";
 
-export default function AboutCollege() {
+export default function AboutCollege() {  
   const router = useRouter();    
   return (  
     <div style={{ textAlign: "center" }}>
