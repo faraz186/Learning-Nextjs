@@ -6,7 +6,7 @@ export default function AboutCollege() {
   const router = useRouter();  
   return (
     <div style={{ textAlign: "center" }}>
-      <h1 style={{ textAlign: "center" }}>About College Page</h1>
+      <h1 style={{ textAlign: "center" }}>About College Page</h1>  
       <br />
 
       <button onClick={() => router.push("/login")}>Go to Login Page</button>
