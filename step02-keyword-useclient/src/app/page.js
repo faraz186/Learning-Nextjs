@@ -13,7 +13,7 @@ export default function Home() {
   };           
      
   const PreviousPopUp = () => {    
-    setName("Faraz");   
+    setName("Faraz");      
   };     
 
   const randomPopUp = (message) => {      
