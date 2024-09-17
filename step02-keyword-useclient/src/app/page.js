@@ -6,7 +6,7 @@ import { useState } from "react";
 // client side rendering and next js using server side rendering that's why we useclient..           
             
 export default function Home() {      
-  const [name, setName] = useState("Faraz");   
+  const [name, setName] = useState("Faraz");      
          
   const popUp = () => {  
     setName("Muhammad");     
