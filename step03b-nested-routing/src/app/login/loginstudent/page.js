@@ -3,5 +3,5 @@ export default function LoginStudent() {
     <div>      
       <h1 style={{ textAlign: "center" }}>Login Student Page</h1>        
     </div>        
-  );
+  );   
 }  
