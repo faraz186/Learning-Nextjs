@@ -6,4 +6,4 @@ const AboutCollege=()=>{
     )
 }  
   
-export default AboutCollege;
+export default AboutCollege;  
