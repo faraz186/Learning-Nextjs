@@ -12,7 +12,7 @@ export default function Home() {
     setName("Muhammad");       
   };           
      
-  const PreviousPopUp = () => {    
+  const PreviousPopUp = () => {      
     setName("Faraz");        
   };     
 
