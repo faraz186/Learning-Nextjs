@@ -15,7 +15,7 @@ export default function Home() {
       <br />
       <br />
 
-      <button onClick={() => router.push("/about")}>Go to About Page</button>   
+      <button onClick={() => router.push("/about")}>Go to About Page</button>     
 
       <br />      
       <br />
