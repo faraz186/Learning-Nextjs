@@ -6,7 +6,7 @@ export default function Home() {
   const router = useRouter();       
      
   return (     
-    <div style={{ textAlign: "center" }}>    
+    <div style={{ textAlign: "center" }}>      
       <h1 style={{ textAlign: "center" }}>Navigation | Home Page</h1>     
       <br />
 
