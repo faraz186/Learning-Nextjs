@@ -21,7 +21,7 @@ export default function Home() {
       <br />
 
       <button onClick={() => router.push("/login/loginteacher")}>
-        Go to Login Teacher Page
+        Go to Login Teacher Page  
       </button>
 
       <br />
