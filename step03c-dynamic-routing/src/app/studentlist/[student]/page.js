@@ -7,7 +7,7 @@ export default function StudentDetails({ params }) {
 
   return (   
     <div>
-      <h1 style={{ textAlign: "center" }}>Student Details</h1>
+      <h1 style={{ textAlign: "center" }}>Student Details</h1>  
 
       <h3 style={{ textAlign: "center", marginTop: 50 }}>   
         <i>Hello Mr. {params.student}</i>
