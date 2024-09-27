@@ -2,7 +2,7 @@
 import { useRouter } from "next/navigation";
 
 export default function StudentDetails({ params }) {    
-  const router = useRouter();
+  const router = useRouter();  
   console.log(params);  
 
   return (   
