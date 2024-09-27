@@ -10,7 +10,7 @@ export default function StudentDetails({ params }) {
     <div>
       <h1 style={{ textAlign: "center" }}>Student Details</h1>
 
-      <h3 style={{ textAlign: "center", marginTop: 50 }}> 
+      <h3 style={{ textAlign: "center", marginTop: 50 }}>   
         <i>Hello Mr. {params.student}</i>
       </h3>  
 
