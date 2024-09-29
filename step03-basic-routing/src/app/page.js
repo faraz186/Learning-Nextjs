@@ -4,5 +4,5 @@ export default function Home() {
       <h1 style={{ textAlign: "center" }}>Basic Routing | Main Home Page</h1>
     </div>
   );  
-}
+}  
   
