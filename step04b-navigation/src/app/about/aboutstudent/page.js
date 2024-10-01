@@ -24,7 +24,7 @@ export default function AboutStudent() {
 
       <br />
       <br />
-      <button onClick={() => router.push("/about/aboutcollege")}>
+      <button onClick={() => router.push("/about/aboutcollege")}>   
         Go to About College Page
       </button>
     </div>
