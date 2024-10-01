@@ -16,7 +16,7 @@ export default function AboutStudent() {
       <button onClick={() => router.push("/about")}>Go to About Page</button>
 
       <br />
-      <br />
+      <br />  
 
       <button onClick={() => router.push("/login/loginteacher")}>  
         Go to Login Teacher Page
