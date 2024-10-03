@@ -1,10 +1,13 @@
 "use client"  
-
 import { useState } from 'react'  
-import style from './style.module.css'    
-export default function Home() {
+import style from './style.module.css';
+
+
+export default function Home() 
+{
   const [color,setColor]=useState("red");
-  const {red} = style
+  const {red} = style;
+  
   return (  
     <main>  
       <h1 className={color=='red'?style.red:style.green} >Condtion with Style </h1>
