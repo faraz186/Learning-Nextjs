@@ -6,4 +6,4 @@ export default function Home() {
       <h1>Loader with API in Next.JS</h1>  
     </main>        
   )
-}  
+}    
