@@ -12,4 +12,4 @@ export function generateMetadata(){
         title:"User page title",
         description:"User Page description"
     }   
-}
+}  
