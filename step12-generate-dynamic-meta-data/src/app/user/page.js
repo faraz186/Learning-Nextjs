@@ -5,7 +5,7 @@ export default function User()
             <h1 style={{textAlign:"center"}}>User Page</h1>
         </div>        
     )
-}
+}  
 
 export function generateMetadata(){  
     return{    
