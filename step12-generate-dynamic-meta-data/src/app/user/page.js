@@ -7,7 +7,7 @@ export default function User()
     )
 }
 
-export function generateMetadata(){
+export function generateMetadata(){  
     return{    
         title:"User page title",
         description:"User Page description"  
