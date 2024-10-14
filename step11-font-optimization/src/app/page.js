@@ -9,7 +9,7 @@ const roboto = Roboto({
 export default function Home()   
 {
   return (
-   <>  
+   <>      
     <h1 className={roboto.className}>Font Optimization in Nextjs</h1>
    </>
   )
