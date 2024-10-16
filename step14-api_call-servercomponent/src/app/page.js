@@ -2,7 +2,7 @@
 
 export default function Home()   
 {  
-  return (
+  return (  
 
     <div style={{marginLeft:"32%"}}>
 
