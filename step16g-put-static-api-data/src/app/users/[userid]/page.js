@@ -14,7 +14,7 @@ export default async function Page({params})
         <div>  
             <h1>User Details..</h1>
             <h4>Name: {users.name}</h4>   
-            <h4>Age: {users.age}</h4>
+            <h4>Age: {users.age}</h4>  
             <h4>Email: {users.email}</h4>
 
         </div>
