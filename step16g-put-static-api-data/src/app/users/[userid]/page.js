@@ -7,7 +7,6 @@ async function getUsers(id)
 
 export default async function Page({params})   
 {
-
     const users = await getUsers(params.userid);
 
     return(
