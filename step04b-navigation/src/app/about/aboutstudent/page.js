@@ -5,7 +5,7 @@ export default function AboutStudent() {
   const router = useRouter();       
          
   return (  
-    <div style={{ textAlign: "center" }}>  
+    <div style={{ textAlign: "center" }}>    
       <h1 style={{ textAlign: "center" }}>About Student Page</h1>  
       <br />
    
