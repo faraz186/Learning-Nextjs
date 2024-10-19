@@ -4,7 +4,7 @@ export default function Home()
 {
     return(
         <main className={styles.main}>
-            <Link href="/products">Products</Link>
+            <Link href="/products">Products</Link>  
             <Link href="/addproduct">Add Products</Link>
         </main>
     )
