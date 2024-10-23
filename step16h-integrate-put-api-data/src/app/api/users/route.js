@@ -13,7 +13,7 @@ export async function POST(request)
     console.log(payload);
 
     if(!payload.name || !payload.age || !payload.email)
-    {
+    {  
     return NextResponse.json({result:"require field not found...",success:false},{status:400})
 
     }
