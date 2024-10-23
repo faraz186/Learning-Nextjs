@@ -6,7 +6,7 @@ export default function Home() {
     <>   
     <h1 style={{textAlign:"center"}}>Image Optimization in Nextjs</h1>           
    
-    <br />      
+    <br />        
          
     <h2 style={{textAlign:"center",textDecoration:"underline"}}>Online Image</h2> 
    
