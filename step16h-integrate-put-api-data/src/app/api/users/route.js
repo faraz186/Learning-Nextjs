@@ -8,7 +8,7 @@ export function GET()
 }  
 
 export async function POST(request)  
-{
+{  
     let payload = await request.json();  
     console.log(payload);
 
