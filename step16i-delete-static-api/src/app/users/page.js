@@ -2,7 +2,7 @@ import Link from "next/link";
 
 async function getUsers()  
 {
-    let data = await fetch("http://localhost:3000/api/users");
+    let data = await fetch("http://localhost:3000/api/users");  
     data = await data.json();
     return data;   
 }
