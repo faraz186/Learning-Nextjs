@@ -7,7 +7,7 @@ export function GET()
     return NextResponse.json(data,{status:201})
 }
 
-export async function POST(request)
+export async function POST(request)  
 {
     let payload = await request.json();    
     console.log(payload);
