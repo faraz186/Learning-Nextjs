@@ -12,7 +12,7 @@ export async function POST(request)
     let payload = await request.json();    
     console.log(payload);
   
-    if(!payload.name || !payload.age || !payload.email)
+    if(!payload.name || !payload.age || !payload.email)  
     {
     return NextResponse.json({result:"require field not found...",success:false},{status:400})
 
