@@ -11,7 +11,7 @@ export default async function Userss()
 {
     const users = await getUsers();
     console.log(users)
-    return(
+    return(  
         <div>
             <h1>User lists..</h1>   
             {
