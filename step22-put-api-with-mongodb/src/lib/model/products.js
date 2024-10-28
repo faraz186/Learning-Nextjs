@@ -5,7 +5,7 @@ const productModel = new mongoose.Schema({
     price:String,    
     company:String,
     color:String,    
-    category:String   
+    category:String     
 });  
   
 export const Product = mongoose.models.products || mongoose.model("products",productModel)  
