@@ -25,7 +25,7 @@ export const user = [
     ,{
         id:50,
         name:"Affan",
-        age:35,
+        age:35,  
         email:"affan@gmail.com"
     }
 ]
