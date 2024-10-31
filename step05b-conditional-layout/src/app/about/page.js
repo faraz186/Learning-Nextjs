@@ -1,7 +1,7 @@
 "use client"
 
 import Link from 'next/link';
-import {useRouter} from 'next/navigation'
+import {useRouter} from 'next/navigation'  
 
 const About=()=>{  
     const router = useRouter();    
