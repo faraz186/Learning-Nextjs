@@ -6,7 +6,7 @@ const Login = () => {
     const router = useRouter();   
     const navigate = (page) => {    
         router.push("/login/" + page)
-    }
+    }  
     return (
         <div>
             <h1 className="heading">Login Page</h1>    
