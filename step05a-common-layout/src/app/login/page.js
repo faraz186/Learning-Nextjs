@@ -3,7 +3,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 
 const Login = () => {
-    const router = useRouter();
+    const router = useRouter();   
     const navigate = (page) => {    
         router.push("/login/" + page)
     }
