@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 
 const Login = () => {
     const router = useRouter();
-    const navigate = (page) => {
+    const navigate = (page) => {  
         router.push("/login/" + page)
     }
     return (
