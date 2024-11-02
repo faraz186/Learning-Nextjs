@@ -7,7 +7,7 @@ const Login = () => {
     const navigate = (page) => {    
         router.push("/login/" + page)
     }  
-    return (
+    return (  
         <div>
             <h1 className="heading">Login Page</h1>    
             <Link href="/" >Go to Home Page</Link>  
