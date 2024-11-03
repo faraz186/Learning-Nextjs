@@ -2,7 +2,7 @@ import { user } from "@/utils/db";
 import { NextResponse } from "next/server";  
 
 export function GET(request,content)  
-{
+{  
     console.log(content.params.id);    
 
     let userdata = user.filter((item)=>item.id == content.params.id)  
