@@ -1,5 +1,5 @@
 import { user } from "@/utils/db";  
-import { NextResponse } from "next/server";
+import { NextResponse } from "next/server";  
 
 export function GET(request,content)  
 {
