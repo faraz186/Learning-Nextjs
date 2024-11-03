@@ -10,4 +10,4 @@ export function GET(request,content)
 
     return NextResponse.json(
         user,{status:200});
-}
+}  
