@@ -12,7 +12,7 @@ export const user = [
         email:"ashar@gmail.com"
     },
     {
-        id:30,
+        id:30,  
         name:"Ali",
         age:31,  
         email:"ali@gmail.com"
