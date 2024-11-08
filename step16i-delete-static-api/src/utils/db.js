@@ -8,7 +8,7 @@ export const user = [
     {
         id:20,
         name:"Ashar",  
-        age:25,     
+        age:25,       
         email:"ashar@gmail.com"   
     },
     {
