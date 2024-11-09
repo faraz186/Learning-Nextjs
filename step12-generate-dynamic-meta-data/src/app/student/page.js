@@ -8,7 +8,7 @@ export default function Student()
 }  
 
 export function generateMetadata(){  
-    return{    
+    return{      
         title:"Student page title",      
         description:"Student Page description"  
     }
