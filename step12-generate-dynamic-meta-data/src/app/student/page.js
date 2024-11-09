@@ -7,7 +7,7 @@ export default function Student()
     )  
 }
 
-export function generateMetadata(){
+export function generateMetadata(){  
     return{  
         title:"Student page title",
         description:"Student Page description"  
