@@ -5,7 +5,7 @@ export default function Student()
             <h1 style={{textAlign:"center"}}>Student Page</h1>    
         </div>      
     )    
-}
+}  
 
 export function generateMetadata(){  
     return{    
