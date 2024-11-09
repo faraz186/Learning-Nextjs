@@ -11,7 +11,6 @@ export function generateMetadata(){
     return{
         title:"Student page title",
         description:"Student Page description"
-
     }
     
 }
