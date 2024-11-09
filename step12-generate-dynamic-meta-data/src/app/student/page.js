@@ -2,7 +2,7 @@ export default function Student()
 {  
     return(    
         <div>  
-            <h1 style={{textAlign:"center"}}>Student Page</h1>    
+            <h1 style={{textAlign:"center"}}>Student Page</h1>      
         </div>         
     )    
 }  
