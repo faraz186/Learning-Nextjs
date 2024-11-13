@@ -13,7 +13,7 @@ export default async function Userss()
     console.log(users)      
     return(  
         <div>    
-            <h1>User lists..</h1>
+            <h1>User lists..</h1>  
             {  
                 users.map((item)=>{
                     <div>
