@@ -9,7 +9,7 @@ async function getUsers()
 
 export default async function Userss()  
 {
-    const users = await getUsers();
+    const users = await getUsers();  
     console.log(users)      
     return(  
         <div>    
