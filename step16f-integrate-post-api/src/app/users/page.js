@@ -14,7 +14,7 @@ export default async function Userss()
     return(
         <div>
             <h1>User lists..</h1>
-            {
+            {  
                 users.map((item)=>{
                     <div>
                         <Link href={`users/${item.id}`}>{item.name}</Link>
