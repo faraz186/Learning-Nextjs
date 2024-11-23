@@ -6,7 +6,7 @@ async function getUsers()
     data = await data.json();     
     return data;     
 }
-
+   
 export default async function Userss()
 {  
     const users = await getUsers();
