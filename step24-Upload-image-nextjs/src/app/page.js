@@ -10,7 +10,7 @@ export default function Home()
     {
         e.preventDefault();
         console.log(file);
-        const data = new FormData();
+        const data = new FormData();  
         data.set("file",file);
         let result = await fetch("api.upload",{
             method:"POST",
