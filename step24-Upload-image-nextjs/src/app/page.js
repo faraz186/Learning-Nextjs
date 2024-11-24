@@ -6,7 +6,7 @@ export default function Home()
 {   
     const [file,setFile] = useState();
 
-    const onSubmit = async (e)=>
+    const onSubmit = async (e)=>  
     {
         e.preventDefault();
         console.log(file);
