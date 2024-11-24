@@ -21,7 +21,7 @@ export default function Home()
         // console.log(result);
 
         if(result.success){
-            alert("File has been Uploaded..")
+            alert("File has been Uploaded..")  
         }
     }
 
