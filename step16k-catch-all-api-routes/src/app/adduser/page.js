@@ -8,7 +8,7 @@ export default function Page()
     const [email,setEmail] = useState("");
 
     const addUser = async ()=>{
-        let response = await fetch("http://localhost:3000/api/users",{  
+        let response = await fetch("http://localhost:3000/api/users",{    
             method:"Post",  
             body:JSON.stringify({name,age,email})
         })
