@@ -10,7 +10,7 @@ export default function Page()
     const addUser = async ()=>{
         let response = await fetch("http://localhost:3000/api/users",{      
             method:"Post",  
-            body:JSON.stringify({name,age,email})
+            body:JSON.stringify({name,age,email})  
         })  
         response = await response.json();
         if(response.success)
