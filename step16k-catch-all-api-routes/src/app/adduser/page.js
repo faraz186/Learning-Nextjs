@@ -15,7 +15,7 @@ export default function Page()
         response = await response.json();
         if(response.success)
         {  
-            alert("new user added..")
+            alert("new user added..")  
         }
         else{
             alert("some error issues...")
