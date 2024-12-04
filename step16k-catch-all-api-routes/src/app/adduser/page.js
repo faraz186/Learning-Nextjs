@@ -4,7 +4,7 @@ import { useState } from "react"
 export default function Page()
 {
     const [name,setName] = useState("");  
-    const [age,setAge] = useState("");
+    const [age,setAge] = useState("");  
     const [email,setEmail] = useState("");
 
     const addUser = async ()=>{
