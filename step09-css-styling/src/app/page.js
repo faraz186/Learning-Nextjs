@@ -10,7 +10,7 @@ export default function Home()
   return (    
     <main>      
       <h1 className={color=='red'?style.red:style.green} >Condtion with Style </h1>        
-      <h2 style={{backgroundColor:color=='red'?'red':'green'}} >Heading 2</h2>         
+      <h2 style={{backgroundColor:color=='red'?'red':'green'}} >Heading 2</h2>           
       <h3 id={style.orange} >Heading 3</h3>  
   
       <h4  className={red}>Dummy text 1</h4>
