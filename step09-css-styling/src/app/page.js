@@ -4,7 +4,7 @@ import style from './style.module.css';
 
 export default function Home()   
 {
-  const [color,setColor]=useState("red");
+  const [color,setColor]=useState("red");  
   const {red} = style;          
       
   return (  
