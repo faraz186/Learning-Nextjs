@@ -8,4 +8,4 @@ export default function Home() {
       <Link href="/productlist">Go to Product page</Link>  
     </>     
   )
-}   
+}     
