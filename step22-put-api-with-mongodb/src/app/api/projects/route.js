@@ -14,7 +14,7 @@ export async function GET()
     catch(err){
         data={result:"error"}  
         success = false    
-    }
+    }  
 
     return NextResponse.json({result:data,success})
 }
