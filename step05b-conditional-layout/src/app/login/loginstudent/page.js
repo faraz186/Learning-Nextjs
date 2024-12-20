@@ -6,4 +6,4 @@ const LoginStudent=()=>{
     )  
 }
 
-export default LoginStudent;
+export default LoginStudent;   
