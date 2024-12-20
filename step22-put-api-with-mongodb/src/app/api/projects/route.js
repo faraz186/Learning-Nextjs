@@ -12,7 +12,7 @@ export async function GET()
         data = await Product.find();
     }  
     catch(err){
-        data={result:"error"}
+        data={result:"error"}  
         success = false
     }
 
