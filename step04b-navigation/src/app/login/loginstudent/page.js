@@ -1,7 +1,7 @@
 "use client";
 import { useRouter } from "next/navigation";
 
-export default function LoginStudent() {
+export default function LoginStudent() {  
   const router = useRouter();
   return (
     <div style={{ textAlign: "center" }}>
