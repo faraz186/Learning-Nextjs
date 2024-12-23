@@ -9,7 +9,7 @@ export default function LoginStudent() {
       <h1 style={{ textAlign: "center" }}>Login Student Page</h1>  
   
       <br />  
-
+  
       <button onClick={() => router.push("/login")}>Go to Login Page</button>
 
       <br />   
