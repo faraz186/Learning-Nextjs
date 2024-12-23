@@ -14,7 +14,7 @@ export default function LoginStudent() {
       <br />   
       <br />
   
-      <button onClick={() => router.push("/")}>Go to Home Page</button>
+      <button onClick={() => router.push("/")}>Go to Home Page</button>   
 
       <br />
       <br />
