@@ -1,5 +1,5 @@
 "use client";        
-import { useRouter } from "next/navigation";     
+import { useRouter } from "next/navigation";        
   
 export default function LoginStudent() {  
   const router = useRouter();     
