@@ -5,7 +5,7 @@ export default function LoginStudent() {
   const router = useRouter();  
   
   return (
-    <div style={{ textAlign: "center" }}>
+    <div style={{ textAlign: "center" }}>   
       <h1 style={{ textAlign: "center" }}>Login Student Page</h1>   
       <br />
 
