@@ -13,4 +13,4 @@ export default function Home()
     <h1 className={roboto.className}>Font Optimization in Nextjs</h1>
    </>
   )
-}
+}  
