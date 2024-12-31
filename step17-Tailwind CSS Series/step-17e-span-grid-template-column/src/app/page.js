@@ -1,7 +1,7 @@
 export default function Home()   
 {       
   return (     
-   
+      
     <>
       <div className="max-w-[1200px] py-5 grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-2 gap-5 text-white mx-auto">
 
