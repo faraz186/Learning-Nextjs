@@ -6,7 +6,7 @@ export default function Home()
 {  
   const [color,setColor]=useState("red");  
   const {red} = style;          
-      
+        
   return (      
     <main>      
       <h1 className={color=='red'?style.red:style.green} >Condtion with Style </h1>        
