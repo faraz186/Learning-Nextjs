@@ -3,7 +3,7 @@ import { useState } from 'react'
 import style from './style.module.css';  
 
 export default function Home()     
-{
+{  
   const [color,setColor]=useState("red");  
   const {red} = style;          
       
