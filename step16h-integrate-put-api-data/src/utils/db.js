@@ -11,7 +11,7 @@ export const user = [
         age:25,  
         email:"ashar@gmail.com"
     },
-    {
+    {  
         id:30,
         name:"Ali",
         age:31,
