@@ -6,7 +6,7 @@ export default function Login() {
       <h1 style={{ textAlign: "center" }}>Login Page</h1>   
    
       <Link href="/login">Go to Login Page</Link>
-
+  
       <br />
       <br />
       <Link href="/about">Go to About Page</Link>
