@@ -8,7 +8,7 @@ export default function Home()
   
       <h1>API Calling with Server Component</h1>       
 
-      <Link style={{marginLeft:"15%"}} href="/productlist">Go to Product List</Link>  
+      <Link style={{marginLeft:"15%"}} href="/productlist">Go to Product List</Link>    
        
     </div>
   )   
