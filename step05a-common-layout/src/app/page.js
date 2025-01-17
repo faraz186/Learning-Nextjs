@@ -14,7 +14,7 @@ export default function Home() {
       <h1>Common Layout Page</h1>  
       <Link href="/login">Go to Login Page</Link>  
         
-      <br />
+      <br />  
       <br />   
         
       <Link href="/about">Go to About Page</Link>
