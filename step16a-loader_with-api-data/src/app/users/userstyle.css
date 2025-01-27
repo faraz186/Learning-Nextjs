@@ -2,7 +2,7 @@
     width: 200px;   
     height: 3px;
     position: relative;
-    overflow: hidden;
+    overflow: hidden;  
     background-color: #ddd;
     margin: 100px auto;
     -webkit-border-radius: 20px;
