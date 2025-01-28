@@ -1,4 +1,4 @@
-export default function Study()  
+export default function Study()   
 {              
     return(            
         <>
