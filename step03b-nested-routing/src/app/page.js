@@ -1,5 +1,5 @@
 export default function Home() {
-  return (             
+  return (              
     <div>
       <h1 style={{ textAlign: "center" }}> Nested Routing | Home Page </h1>
     </div>
