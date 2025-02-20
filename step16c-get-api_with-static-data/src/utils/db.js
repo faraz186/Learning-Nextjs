@@ -1,5 +1,5 @@
 export const user = [
-    {               
+    {                
         id:10,
         name:"faraz",
         age:22,
