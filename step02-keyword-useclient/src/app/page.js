@@ -1,5 +1,5 @@
 "use client";              
-import { useState } from "reactjs";        
+import { useState } from "reactjs";         
                                                     
 // if you are using events,state and hooks in Nextjs use "use client"                      
 // assign on the top because all these things such as events and hooks are using in      
