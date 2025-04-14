@@ -4,5 +4,5 @@ export default function Home() {
       <h1 style={{textAlign:"center"}}>Main Home Page</h1> 
   
    </>
-  )   
+  )    
 }
